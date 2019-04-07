@@ -37,7 +37,15 @@ date: 2019-04-07
 
 #### 2.1.1.2 插入图片
 
+<img src="http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg" width = 40% height = 40% />
+
+<div align=center><img src="http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg" width = 40% height = 40% />
+
+<img src="http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg" width = 40% height = 40% <div align=center> />
+
 ![image1](http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg )
+
+<div align=center>![image1](http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg )<div align=left> 
 
 #### 2.1.1.3 插入表格
 
@@ -75,13 +83,13 @@ date: 2019-04-07
 ---
 # 三 结语
 
-链接:[Baidu][1]
+我的github链接:[我的github][1]
 或者链接：[Baidu](www.baidu.com)
 邮箱:<i@GitPress.io>
 
 > **流程图**[语法][2]以及**时序图**[语法][3]
 
-  [1]: http://www.baidu.com
+  [1]: https://github.com/yaleizh/myblog/blob/master/samples.md
   [2]: http://adrai.github.io/flowchart.js/
   [3]: http://bramp.github.io/js-sequence-diagrams/
 
