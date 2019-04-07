@@ -31,8 +31,6 @@ date: 2019-04-07
 - [ ] a task list item
 - [x] completed
 
-*斜体*
-
 **加粗**
 
 ~~划线~~
