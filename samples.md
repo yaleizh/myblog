@@ -37,17 +37,17 @@ date: 2019-04-07
 
 #### 2.1.1.2 插入图片
 
-<img src="http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg" width = 40% height = 40% />
-
-<div align=center><img src="http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg" width = 40% height = 40% />
-
-<img src="http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg" width = 40% height = 40% <div align=center> />
-
 ![image1](http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg )
 
-<div align=center>![image1](http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg )<div align=left> 
+<div align=center>图1<div align=left> 
+
+<div align=center><img src="http://pic.yupoo.com/yaleizh/fc8c76e8/13ac2851.jpg" width = 40% height = 40% /><div align=left> 
+
+<div align=center>图2<div align=left> 
 
 #### 2.1.1.3 插入表格
+
+<div align=center>表1<div align=left> 
 
 | Item      |    Value | Qty  |
 | --------: | :--------| :---:|
