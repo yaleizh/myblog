@@ -31,9 +31,11 @@ date: 2019-04-07
 - [ ] a task list item
 - [x] completed
 
-**double asterisks**
+*斜体*
 
-~~Mistaken text.~~
+**加粗**
+
+~~划线~~
 
 #### 2.1.1.2 插入图片
 
@@ -79,7 +81,10 @@ date: 2019-04-07
     C -->|One| D[Result one]
     C -->|Two| E[Result two]
 ```
-## 2.2 第二小节
+## 2.2 字体
+
+<font size=5>我是尺寸</font>
+
 ---
 # 三 结语
 
