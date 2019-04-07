@@ -65,7 +65,7 @@ date: 2019-04-07
 \}
 ```
 
-```python
+```
 #-*- coding:utf8-*-
  
 import networkx as nx
