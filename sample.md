@@ -79,6 +79,7 @@ plt.show()
 G = nx.petersen_graph()
 nx.draw_shell(G, nlist=[range(5, 10), range(5)],node_color='gray', edge_color='black')
 plt.show()
+```
 
 #### 2.1.1.5 插入公式
 
