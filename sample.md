@@ -65,6 +65,21 @@ date: 2019-04-07
 \}
 ```
 
+```python
+#-*- coding:utf8-*-
+ 
+import networkx as nx
+import matplotlib.pyplot as plt
+G = nx.Graph()
+G.add_nodes_from([1,2,3,4,5,6,7,8,9])    #加点集合
+G.add_edges_from([(1,2),(2,3),(3,4),(4,1),(2,6),(2,8),(6,7),(7,8),(6,5),(5,8),(1,6),(8,3),(6,9),(8,9)])  #加边集合
+nx.draw(G,pos=nx.circular_layout(G),node_color='gray', edge_color='black')
+plt.show()
+
+G = nx.petersen_graph()
+nx.draw_shell(G, nlist=[range(5, 10), range(5)],node_color='gray', edge_color='black')
+plt.show()
+
 #### 2.1.1.5 插入公式
 
 <div align=center>
